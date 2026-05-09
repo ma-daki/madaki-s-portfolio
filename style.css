@@ -10,7 +10,7 @@
   letter-spacing: 2px;
 }
 .tools img{
-  border-radius: 30px;
+  border-radius: 15px;
 }
 .tools:hover{
   transform: scale(1.3);
